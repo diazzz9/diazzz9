@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="FEATURED WORK">
+<defs><linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<style>.h{font:700 15px 'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:url(#tg);letter-spacing:2px}</style>
+<text x="4" y="34" class="h">// FEATURED WORK</text><line x1="209.5" y1="29" x2="1196" y2="29" stroke="#30363d"/></svg>

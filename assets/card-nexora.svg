@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Nexora — AI WhatsApp Assistant">
+<defs><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+<radialGradient id="gl" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.16"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+<clipPath id="c"><rect width="1200" height="250" rx="14"/></clipPath></defs>
+<style>.tag{font:700 12px 'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#a78bfa;letter-spacing:1.6px}.t{font:800 26px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3;letter-spacing:-.4px}.d{font:400 15.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8b949e}.ch{font:600 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}.m{font:500 12px 'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#8b949e}
+.sh{animation:sh 6s ease-in-out infinite}@keyframes sh{0%,100%{opacity:.55}50%{opacity:1}}</style>
+<g clip-path="url(#c)">
+<rect width="1200" height="250" fill="#0f1623"/><rect width="1200" height="250" fill="url(#gl)" class="sh"/>
+<rect width="1200" height="3" fill="url(#a)"/>
+<text x="32" y="44" class="tag">STARTUP · CO-FOUNDER &amp; CDO</text>
+<text x="32" y="84" class="t">Nexora — AI WhatsApp Assistant</text>
+<text x="32" y="120" class="d">A WhatsApp chatbot powered by GPT-4o-mini that answers customers and books appointments for small local businesses, 24/7. I</text><text x="32" y="144" class="d">designed and built the MongoDB data layer: customers, sessions, messages, appointments, bot config and error logs.</text><g transform="translate(32 194)"><rect width="79" height="26" rx="13" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/><text x="39.5" y="17.5" text-anchor="middle" class="ch">Node.js</text></g><g transform="translate(119 194)"><rect width="79" height="26" rx="13" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/><text x="39.5" y="17.5" text-anchor="middle" class="ch">Express</text></g><g transform="translate(206 194)"><rect width="124" height="26" rx="13" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/><text x="62.0" y="17.5" text-anchor="middle" class="ch">MongoDB Atlas</text></g><g transform="translate(338 194)"><rect width="162" height="26" rx="13" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/><text x="81.0" y="17.5" text-anchor="middle" class="ch">OpenAI GPT-4o-mini</text></g><g transform="translate(508 194)"><rect width="71" height="26" rx="13" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/><text x="35.5" y="17.5" text-anchor="middle" class="ch">Twilio</text></g><g transform="translate(587 194)"><rect width="79" height="26" rx="13" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/><text x="39.5" y="17.5" text-anchor="middle" class="ch">Winston</text></g>
+<g transform="translate(1148 26)" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 18L18 6M8 6h10v10"/></g>
+<text x="1136" y="44" text-anchor="end" class="m">Cesarcanro1/Bot-WhatsApp-</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="249" rx="14" fill="none" stroke="#21262d"/>
+</svg>

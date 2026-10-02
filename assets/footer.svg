@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient></defs>
+<style>.f{font:500 15px 'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#8b949e}.mv{animation:mv 4s ease-in-out infinite alternate}@keyframes mv{from{transform:translateX(-300px)}to{transform:translateX(300px)}}</style>
+<rect x="0" y="20" width="1200" height="1" fill="#30363d"/>
+<rect x="300" y="19" width="600" height="3" fill="url(#l)" class="mv"/>
+<text x="600" y="60" text-anchor="middle" class="f">build systems that scale · design data that lasts</text>
+</svg>
